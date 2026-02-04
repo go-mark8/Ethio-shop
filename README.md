@@ -10,7 +10,7 @@ Ethioshop is a Flutter-based e-commerce mobile application powered by Firebase.
 - Android Play Store ready
 
 ## 🧱 Tech Stack
-- Flutter
+- Kotlin 
 - Firebase Auth
 - Cloud Firestore
 - Gradle (Android)
@@ -19,10 +19,10 @@ Ethioshop is a Flutter-based e-commerce mobile application powered by Firebase.
 ## 📦 Project Setup
 
 ### Prerequisites
-- Flutter SDK (latest stable)
+- Kotlin SDK (latest stable)
 - Android Studio or IDX
 - Firebase project
 
 ### Install dependencies
 ```bash
-flutter pub get
+Kotlin Jetpack Compose 
